@@ -2,7 +2,18 @@
   "name": "typescript7-lsp",
   "version": "1.0.0",
   "description": "TypeScript 7 language server (tsc --lsp) with post-edit diagnostics via a pull-to-push bridge",
-  "author": { "name": "seanforge" },
+  "author": {
+    "name": "seanforge"
+  },
   "repository": "https://github.com/seanforge/claude-code-lsp-bridge",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "typescript-7",
+    "typescript-go",
+    "tsgo",
+    "lsp",
+    "diagnostics",
+    "code-intelligence"
+  ]
 }

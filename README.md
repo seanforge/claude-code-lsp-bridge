@@ -1,6 +1,7 @@
 # claude-code-lsp-bridge
 
 TypeScript 7 code intelligence for Claude Code: navigation and post-edit diagnostics.
+Fixes `provides no tsserver.js` with TypeScript 7 in Claude Code.
 
 ## Why
 
