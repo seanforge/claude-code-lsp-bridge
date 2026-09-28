@@ -1,0 +1,14 @@
+{
+  "name": "lsp-bridge",
+  "description": "Claude Code LSP plugins for pull-only language servers, starting with TypeScript 7",
+  "owner": {
+    "name": "seanforge"
+  },
+  "plugins": [
+    {
+      "name": "typescript7-lsp",
+      "source": "./plugins/typescript7-lsp",
+      "description": "TypeScript 7 language server (tsc --lsp) with post-edit diagnostics via a pull-to-push bridge"
+    }
+  ]
+}
